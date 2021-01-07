@@ -2,6 +2,7 @@
 Lidar system based on FLC Dammann grating
 
 For capture laser light coordinate in python \
+https://github.com/bradmontgomery/python-laser-tracker \
 https://stackoverflow.com/questions/33965993/detecting-edges-of-lasers-lights-in-images-using-python
 
 For download OpenCV in Raspberry pi \
