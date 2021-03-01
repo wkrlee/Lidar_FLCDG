@@ -7,7 +7,7 @@ import time
 import cv2
 import sys
 
-faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+faceCascade = cv2.CascadeClassifier ("haarcascade_frontalface_default.xml")
 
 cam            = PiCamera()
 cam.resolution = (320, 240)
